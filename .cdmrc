@@ -1,0 +1,3 @@
+tabs: ["app.py"]
+run-button: python3 app.py
+terminals: ["python3 app.py"]
